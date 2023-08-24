@@ -6,6 +6,10 @@
 
 ![Default](PickGame.png)
 
+### Flowchart -
+
+![Flowchart](pig-game-flowchart.png)
+
 ### Steps -
 
 1. Player 1 rolls the dice. So this one is now the active player.
